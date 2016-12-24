@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_d9098c1947f3daff001e0893fd91c81a1c599a9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.8.0_38fdfb7d376df0eda4c875a0eede59550803fbc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_e97bddb84d26e7b40de47ea41c5c42e480c374f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.8.0_921b1ad8d8333eaa2c7173e1f6fa04bab4c7e77d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.8.0_3d7f59c43375f1d84be65600f098a875b875925e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.8.0_264672cc0ee889f508641cf78b497682cff76e71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_a903361d75cb59ebbc7012a91caf1a0059f29b90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.8.0_2e975ae4cabb29aaa7248a88c4c02f8fb7bf67f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.6.0/f511467754b7e10d7f1aefc173bfabe3ad67c9ce/engine.io-client-0.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f511467754b7e10d7f1aefc173bfabe3ad67c9ce">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/engine.io-client-0.6.0_fead2449bea376d7c21a0bd0aade7c5c39117947/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.8.0_e29cfa58893e4f8aa0372b26d4b2800bb63da460/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.8.0_5f081aedd07c6876bf6176d17766d1cdab6c2728/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.8.0_344af8d608a6325bac6f3fb43af80b46f09a4367/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_1aec7b95def8a472a7f17f8a36339f6c760b7db9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_c05d509d44616ce8c7e5a45a53ae12bb18be7fdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.8.0_d8be1dd3dbb1ea6795dea2923c8a4f8a0f515f98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ade12c5018ed1dda74742be30a319835b27eb21">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a674640904714338d951cc6afbfca5d687789aa1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.8.0_bd92b2bc419a80dcda4cd1f195c4eb63ad045597/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_ef14ee5bdc56fece40bce9c511b5dc327de0d21e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_f622ad242afbe69757bc49f8119c6f250cc65545/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_7e15f098ed370bcfdaaac57a345f9ef5800c2723/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_c573cbbc848e6d3b630a99a4f670a69477bcb269/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_8b47ea11ba95457edb7aac4b6a0103348a446b5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_2541675a7c622a4f8737def306ee71d227f7b283/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.8.0_79d7f85d5207b000e5efb1532d2f29d14f6aa11d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.8.0_7dfb60fba757e896dc4c718c7bd25111d8fc6853/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.8.0_d89a6e6c569abf7b98a78d9a54f8f647938f7241/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_575c5a4b82bbeb14510c09ba434552a04185cbb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_0c9cfef7b20483c25130118f291ccceb66a430a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_265c729a3332e1f87b0428d42a38083891e2ff28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.4.0/69206d28966656052a982ceded583abdeb41cf63/okhttp-ws-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69206d28966656052a982ceded583abdeb41cf63">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-2.4.0_ac33568bd3ea03c33b0cca5d904b6dbeefa7d398/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_57fda170f72fd2f2607952af236453dcf01dea45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_faf6479bb5046ecd2db46ef22510d8494b7a9030/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_c13f6df8c65ec60a04148836f3e696f6d42b7374/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_041a5c819a4034cd5963a2467dca4d763b3602c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_7f6c0d5252271f17528e123f3c535032c0e5a18d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.8.0_072f628f6eec519cba93f9bc7c694119d8cb7c7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.4.0_498a8b868d3c59281694494789849dd93104af73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_18d5698e35fe53a37c2b2ebb8433fcbd326b7d19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.8.0_8c0b2e618cdda75530e1f0c3286fd83b9195f04d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.8.0_4c796fda1aa8f50e2ea952b8bc80d3a22cdf6262/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2686d906babd8f2a33bd3413c94ce1fcbd58cea5">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3084b04919b0dcd209887f8344cefb8a507e8535/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.8.0_910260f5a24cbd483af6faf4c3a219282cf6ad5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e202e4d15184d32816c0f74f526384582039b64c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.8.0_a12c8aaa21600300e51fc5b684ccb21f2a2a3949/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_e1f35c5a5a8c8cb0426e4b62b29a0644b0743de9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_6cc5c919d9bb0662dde4f29ee7b070c4130542ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.8.0_612d6464656404f0533178459fe7c3bf71320948/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_0df174754c096a10138fc63a48622e4f142b56c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a6c70c44aedb09c4b24471b681e264ce44c9e13e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_e24c3a896e71a1fd809543b7c00d738956aa4fe5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_5328dcdab294f2cd47fdf5a882e59b86b3fc2853/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_5f4f455cf9f61cdbcfa906b239f32709e9e1b4cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.8.0_f1cd4f39995ba25bb1441bd9ab9a825211f0945d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.8.0_4a67210b16cef5e0ff07098bfbba8aa5d90db661/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_e808e1f822db6b7ed4a94b1d9e1d7d0a2e4d4b68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.8.0_380be85ace96d2f69c84e4dcb8633a10ed2d97d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.onesignal/OneSignal/3.4.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c05a731f2fc63097365d844e4467575a424e56b1">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.onesignal-OneSignal-3.4.1_677eefeacdcf75fef4c16d89fe0dafb91a401290/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.8.0_b2e45c9b93ebe7c66cf1335c3507c7079967a457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.8.0_046cbce39af48666f54927872ed8e16bc3d14e57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.8.0_1f57b94a775ce2be74a44da15daf92a0166517b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_be01edc8393950727b054f876464ed72a9643766/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_ee17f262ba0e0444331f7a43e3fd494dc1170ec5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/socket.io-client/0.6.0/83de3453382e6c00d5e969ecbad51b8626a47c2e/socket.io-client-0.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="83de3453382e6c00d5e969ecbad51b8626a47c2e">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/socket.io-client-0.6.0_5e95587b919abf6b78356f23b929d8e8daa291c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.8.0_62c800343eb16b4fa15df618f4998b0fdf8b193f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.8.0_ec2fef51fee49b0337e56c68c2adffcbf27247f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_5c95d9f808628fb89cef90ebc700521d09cacdac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.8.0_f5de5b61e99ae41b5ead389d60c70e31ce863f3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.4.0_146824c2878e4283bc3cd0a0bad3849be01fea88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.8.0_df49d955045b80df6c2a6cd63e7cf8d4b1998120/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.8.0_bbadf63da399c995629680c26079a354903bdfca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_e283e3828d64a57d276afbda548edc9f2f5a56b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_60374da36fb650877444861dfa830ee5fe5adc90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_e51432fd16229a7d3504d057381479e1ac56f196/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.8.0_f6fa2535444c50ade597346e819afc1c7a2c748f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.8.0_7f5c349c612eccaf679b10664a0279432edc2ea0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_4a5e94ea219fcd532539ba3f17f8dc33220326c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_9c5539fb46148ada461799f1d87c3cb4c7d48615/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ff4aa9de773eb3fbd29a3e440aff50180690d775/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.8.0_84495cd3dd3fc002d373effeb185a3d39d791072/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_17b98644e3d06bc75b5ee5f2f395e636359e1a8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/fhict/SMAN7/AfterEvents/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_ef43571aa26f575bc42adf9a1682ea20cb5d32e1/classes.dex" />
+    </item>
+
+</items>

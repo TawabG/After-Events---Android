@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="10dp"
+    android:background="@drawable/background_toolbar_translucent"
+    >
+
+
+    <ImageView
+        android:id="@+id/imageViewGE1"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        android:background="@drawable/background_toolbar_translucent"
+        android:adjustViewBounds="true"
+        android:foreground="@drawable/background_toolbar_translucent"
+        />
+
+
+
+    <TextView
+        android:id="@+id/textViewGE1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="16dp"
+        android:maxLines="1"
+        android:textColor="#ffffff"
+        android:textSize="25sp" />
+
+
+    <TextView
+        android:id="@+id/textViewGE2"
+        android:layout_marginLeft="16dp"
+        android:layout_width="wrap_content"
+        android:gravity="right"
+        android:layout_height="wrap_content"
+        android:text="13:37"
+        android:textSize="12sp"
+        android:textColor="#fff"
+        android:layout_below="@+id/textViewGE1"
+        />
+
+
+    <TextView
+        android:id="@+id/textViewGE3"
+        android:layout_marginLeft="16dp"
+        android:layout_width="wrap_content"
+        android:gravity="right"
+        android:layout_height="wrap_content"
+        android:text="13:37"
+        android:textSize="12sp"
+        android:textColor="#fff"
+        android:layout_below="@+id/textViewGE2"
+        />
+
+    <TextView
+        android:id="@+id/textViewGE4"
+        android:layout_marginLeft="16dp"
+        android:layout_width="wrap_content"
+        android:gravity="right"
+        android:layout_height="wrap_content"
+        android:text="Event Place"
+        android:textSize="16sp"
+        android:textColor="#fff"
+        android:layout_below="@+id/textViewGE3"
+        />
+
+
+
+</RelativeLayout>
